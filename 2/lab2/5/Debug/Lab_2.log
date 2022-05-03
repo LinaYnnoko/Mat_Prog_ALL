@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\Lina Ynnoko\Desktop\мат прога\лаб\Lab_2_5\Main.cpp(17,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Lina Ynnoko\Desktop\мат прога\лаб\Lab_2_5\Main.cpp(24,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lab_2.vcxproj -> C:\Users\Lina Ynnoko\Desktop\мат прога\лаб\Lab_2_5\Debug\Lab_2.exe

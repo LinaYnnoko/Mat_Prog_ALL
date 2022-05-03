@@ -1,0 +1,8 @@
+﻿  Combi.cpp
+  Salesman.cpp
+C:\Users\Lina Ynnoko\Desktop\3lab\3lab\Salesman.cpp(58,8): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Lina Ynnoko\Desktop\3lab\3lab\Salesman.cpp(66,16): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  Source.cpp
+  stdafx.cpp
+  Создание кода...
+  3lab.vcxproj -> C:\Users\Lina Ynnoko\Desktop\3lab\x64\Debug\3lab.exe
